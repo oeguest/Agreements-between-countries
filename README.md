@@ -1,4 +1,4 @@
 # International-agreements
  
-* See Simonelli for analysis of a dataset about multilateral treaties: How long did negotiations generally last? How does the answer differ for different types of treaties or treaties proposed by different types of actor?
-* See ICBe for analysis of a dataset about international crises: What % of crises led to formal agreements being made? I may subsequently do (or outsource) more sophisticated analysis here. E.g. what kind of crises lead to what kind of agreements? What is the timely?
+* See Simonelli for analysis of a dataset about multilateral treaties: How long did negotiations generally last? How does the answer differ for different types of treaties or treaties proposed by different types of actor? [Builds on Simonelli 2011 https://doi.org/10.1080/03050629.2011.568845]
+* See ICBe for analysis of a dataset about international crises: What % of crises led to formal agreements being made? I may subsequently do (or outsource) more sophisticated analysis here. E.g. what kind of crises lead to what kind of agreements? What is the timely? [Builds on Douglass et al. 2022 https://www.crisisevents.org/]
